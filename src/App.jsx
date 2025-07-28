@@ -21,7 +21,7 @@ const portfolioData = {
                 title: "Web Development Intern",
                 company: "IBM CSRBOX",
                 duration: "Jun 2024 – Aug 2024",
-                location: "Mumbai, Maharashtra"
+                location: "Remote"
             }
         ],
         education: {
